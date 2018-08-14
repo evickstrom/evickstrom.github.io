@@ -24,11 +24,10 @@
     <item>
       <title></title>
       <link>https://evickstrom.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://evickstrom.github.io/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography Erik Vickstrom is a proven analytic and survey-research professional with more than ten years&amp;rsquo; experience in research and programming in population issues, education, environmental management, and food security. A sociologist by training, Dr. Vickstrom has designed and led large-scale behavioral research activities in Africa, Europe, and the US. Areas of research expertise include international migration and development, immigrant integration and educational aspirations, inequality, and diversity and social cohesion. Additional specializations include research methods (quantitative, qualitative, and demographic) and teaching.</description>
     </item>
     
     <item>
@@ -41,20 +40,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
+      <title>Recent Publications</title>
+      <link>https://evickstrom.github.io/home/publications/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://evickstrom.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://evickstrom.github.io/home/skills/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://evickstrom.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://evickstrom.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://evickstrom.github.io/home/publications/</guid>
       <description></description>
     </item>
     
@@ -95,13 +94,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://evickstrom.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://evickstrom.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>
