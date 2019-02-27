@@ -6,27 +6,18 @@
     <description>Recent content in Projects on Erik R. Vickstrom, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://evickstrom.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://evickstrom.github.io/project/deep-learning/</link>
+      <title>International Forum on Migration Statistics (IFMS), 15-16 January 2018</title>
+      <link>https://evickstrom.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://evickstrom.github.io/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://evickstrom.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://evickstrom.github.io/project/example-external-project/</guid>
+      <guid>https://evickstrom.github.io/project/external-project/</guid>
       <description></description>
     </item>
     

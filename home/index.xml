@@ -6,36 +6,65 @@
     <description>Recent content in Homes on Erik R. Vickstrom, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://evickstrom.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://evickstrom.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <link>https://evickstrom.github.io/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/home/hero_carousel/</guid>
+      <guid>https://evickstrom.github.io/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://evickstrom.github.io/home/about/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 +0200</pubDate>
+      <title>Academic</title>
+      <link>https://evickstrom.github.io/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/home/about/</guid>
-      <description>Biography Erik Vickstrom is a proven analytic and survey-research professional with more than ten years&amp;rsquo; experience in research and programming in population issues, education, environmental management, and food security. A sociologist by training, Dr. Vickstrom has designed and led large-scale behavioral research activities in Africa, Europe, and the US. Areas of research expertise include international migration and development, immigrant integration and educational aspirations, inequality, and diversity and social cohesion. Additional specializations include research methods (quantitative, qualitative, and demographic) and teaching.</description>
+      <guid>https://evickstrom.github.io/home/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://evickstrom.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Biography</title>
+      <link>https://evickstrom.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/home/publications_selected/</guid>
+      <guid>https://evickstrom.github.io/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://evickstrom.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://evickstrom.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://evickstrom.github.io/home/publications_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
     
@@ -58,11 +87,11 @@
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>https://evickstrom.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Featured Talks</title>
+      <link>https://evickstrom.github.io/home/talks_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/home/talks_selected/</guid>
+      <guid>https://evickstrom.github.io/home/talks_featured/</guid>
       <description></description>
     </item>
     
@@ -96,10 +125,10 @@
     <item>
       <title>Teaching</title>
       <link>https://evickstrom.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://evickstrom.github.io/home/teaching/</guid>
-      <description></description>
+      <description>I have designed and taught workshops in Analyzing Migration Data, Demographic Analysis and Population Projections and Data Dissemination. My university teaching experience includes Quantitative Research Methods and Introduction to Sociology.</description>
     </item>
     
     <item>
@@ -112,11 +141,11 @@
     </item>
     
     <item>
-      <title>Search</title>
-      <link>https://evickstrom.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <title>People</title>
+      <link>https://evickstrom.github.io/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/home/search/</guid>
+      <guid>https://evickstrom.github.io/home/people/</guid>
       <description></description>
     </item>
     
