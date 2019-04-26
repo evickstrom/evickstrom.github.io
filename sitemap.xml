@@ -1,458 +1,297 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2018-01-01_vickstromdeterminantspsychosocialadaptation2018/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication_types/2/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/alejandro-portes/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/</loc>
-      <lastmod>2018-08-13T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2018-01-01_vickstromdeterminantspsychosocialadaptation2018/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/erik-r.-vickstrom/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2016-01-01_vickstromirregularstatusterritorial2016/</loc>
-      <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication_types/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2016-01-01_vickstromlegalstatusgender2016/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/tutorial/example/</loc>
+    <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/tutorial/</loc>
+    <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/post/how-well/</loc>
-      <lastmod>2015-10-07T18:19:27+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/</loc>
+    <lastmod>2018-08-13T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2015-01-01_vickstromhowwellstill2015/</loc>
-      <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/post/</loc>
+    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/talk/imiscoe/</loc>
-      <lastmod>2015-06-29T19:47:29+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2015-01-01_vickstromemigrationnationspolicies2015/</loc>
-      <lastmod>2015-06-21T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/cris-beauchemin/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/post/baganha-award/</loc>
-      <lastmod>2015-05-15T19:36:16+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2016-01-01_vickstromirregularstatusterritorial2016/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2014-01-01_vickstrompathwaysirregularstatus2014/</loc>
-      <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/amparo-gonz%C3%A1lez-ferrer/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2014-01-01_portesdiversitysocialcapital2014/</loc>
-      <lastmod>2014-09-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2016-01-01_vickstromlegalstatusgender2016/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2013-01-01_portesdreamingspainparental2013/</loc>
-      <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2013-01-01_porteshacerseadultoespana2013/</loc>
-      <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/tags/international-migration/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2012-01-01_portesdiversidadcapitalsocial2012/</loc>
-      <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2012-01-01_porteswhoarewe2012/</loc>
-      <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/tags/statistics/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2011-01-01_portescomingagespain2011/</loc>
-      <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/tags/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2011-01-01_portesdiversitysocialcapital2011/</loc>
-      <lastmod>2011-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/post/how-well/</loc>
+    <lastmod>2015-10-07T18:19:27+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2011-01-01_portesprogresarmadridaspiraciones2011/</loc>
-      <lastmod>2011-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication_types/4/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication/2010-01-01_portesmovingaheadmadrid2010/</loc>
-      <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2015-01-01_vickstromhowwellstill2015/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/author/admin/</loc>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/hyon-b.-shin/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication_types/2/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/kurt-j.-bauman/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication_types/4/</loc>
-      <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/sonia-g.-collazo/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication_types/6/</loc>
-      <lastmod>2014-09-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/talk/imiscoe/</loc>
+    <lastmod>2015-06-26T16:30:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication_types/7/</loc>
-      <lastmod>2015-06-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication_types/0/</loc>
+    <lastmod>2015-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/adrienne-celaya/</loc>
-      <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2015-01-01_vickstromemigrationnationspolicies2015/</loc>
+    <lastmod>2015-06-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/alejandro-portes/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/post/baganha-award/</loc>
+    <lastmod>2015-05-15T19:36:16+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/amparo-gonz%C3%A1lez-ferrer/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/erik-vickstrom/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2014-01-01_vickstrompathwaysirregularstatus2014/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/</loc>
-      <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication_types/6/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2014-01-01_portesdiversitysocialcapital2014/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/cris-beauchemin/</loc>
-      <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2013-01-01_portesdreamingspainparental2013/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/erik-r.-vickstrom/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2013-01-01_porteshacerseadultoespana2013/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/</loc>
-      <lastmod>2018-08-13T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/rosa-aparicio/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/erik-vickstrom/</loc>
-      <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/rosa-aparicio-gomez/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/hyon-b.-shin/</loc>
-      <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/william-j.-haller/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/tags/international-migration/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2012-01-01_portesdiversidadcapitalsocial2012/</loc>
+    <lastmod>2012-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/kurt-j.-bauman/</loc>
-      <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/adrienne-celaya/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2012-01-01_porteswhoarewe2012/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/publication_types/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2011-01-01_portescomingagespain2011/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/rosa-aparicio/</loc>
-      <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2011-01-01_portesdiversitysocialcapital2011/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/rosa-aparicio-gomez/</loc>
-      <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2011-01-01_portesprogresarmadridaspiraciones2011/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/william-haller/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/slides/example-slides/</loc>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/publication/2010-01-01_portesmovingaheadmadrid2010/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/sonia-g.-collazo/</loc>
-      <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/author/admin/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/tags/statistics/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/william-haller/</loc>
-      <lastmod>2011-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/slides/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/william-j.-haller/</loc>
-      <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/slides/example-slides/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://evickstrom.github.io/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://evickstrom.github.io/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>

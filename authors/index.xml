@@ -6,20 +6,11 @@
     <description>Recent content in Authors on Erik R. Vickstrom, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Erik R. Vickstrom</copyright>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://evickstrom.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Adrienne Celaya</title>
-      <link>https://evickstrom.github.io/authors/adrienne-celaya/</link>
-      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://evickstrom.github.io/authors/adrienne-celaya/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Alejandro Portes</title>
@@ -27,24 +18,6 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://evickstrom.github.io/authors/alejandro-portes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amparo González-Ferrer</title>
-      <link>https://evickstrom.github.io/authors/amparo-gonz%C3%A1lez-ferrer/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://evickstrom.github.io/authors/amparo-gonz%C3%A1lez-ferrer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cris Beauchemin</title>
-      <link>https://evickstrom.github.io/authors/cris-beauchemin/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://evickstrom.github.io/authors/cris-beauchemin/</guid>
       <description></description>
     </item>
     
@@ -58,11 +31,20 @@
     </item>
     
     <item>
-      <title>Erik Vickstrom</title>
-      <link>https://evickstrom.github.io/authors/erik-vickstrom/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <title>Cris Beauchemin</title>
+      <link>https://evickstrom.github.io/authors/cris-beauchemin/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/authors/erik-vickstrom/</guid>
+      <guid>https://evickstrom.github.io/authors/cris-beauchemin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amparo González-Ferrer</title>
+      <link>https://evickstrom.github.io/authors/amparo-gonz%C3%A1lez-ferrer/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/authors/amparo-gonz%C3%A1lez-ferrer/</guid>
       <description></description>
     </item>
     
@@ -85,6 +67,24 @@
     </item>
     
     <item>
+      <title>Sonia G. Collazo</title>
+      <link>https://evickstrom.github.io/authors/sonia-g.-collazo/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/authors/sonia-g.-collazo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Vickstrom</title>
+      <link>https://evickstrom.github.io/authors/erik-vickstrom/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/authors/erik-vickstrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rosa Aparicio</title>
       <link>https://evickstrom.github.io/authors/rosa-aparicio/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
@@ -103,11 +103,20 @@
     </item>
     
     <item>
-      <title>Sonia G. Collazo</title>
-      <link>https://evickstrom.github.io/authors/sonia-g.-collazo/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <title>William J. Haller</title>
+      <link>https://evickstrom.github.io/authors/william-j.-haller/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://evickstrom.github.io/authors/sonia-g.-collazo/</guid>
+      <guid>https://evickstrom.github.io/authors/william-j.-haller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrienne Celaya</title>
+      <link>https://evickstrom.github.io/authors/adrienne-celaya/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://evickstrom.github.io/authors/adrienne-celaya/</guid>
       <description></description>
     </item>
     
@@ -117,15 +126,6 @@
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://evickstrom.github.io/authors/william-haller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William J. Haller</title>
-      <link>https://evickstrom.github.io/authors/william-j.-haller/</link>
-      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://evickstrom.github.io/authors/william-j.-haller/</guid>
       <description></description>
     </item>
     
